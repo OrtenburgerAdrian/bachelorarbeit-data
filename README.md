@@ -8,6 +8,6 @@ z = zahlen;
 a = alle;
 w = woerter;
 g = deutsche;
-s = stop;
+s = stopp;
 k = korrektur;
 t = tabelle;
